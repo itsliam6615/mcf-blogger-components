@@ -6,7 +6,7 @@ All of the JS, CSS and images used at <a href="https://make-coding-fun.blogspot.
 <br>
 <br>
 <br>
-<h1 align="center">Files</h1>
+<h2 align="center">Files</h2>
 <a href="bootstrap.min.js">bootstrap.min.js</a>
 <br>
 <a href="bootstrap.min.css">bootstrap.min.css</a>
