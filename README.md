@@ -1,3 +1,3 @@
 <img src="logo.png" width="30px">
-# Make Coding Fun Blogger Components
-All of the JS, CSS and images used at [make-coding-fun.blogspot.com](https://make-coding-fun.blogspot.com/)
+<h1><b>Make Coding Fun Blogger Components</b></h1>
+All of the JS, CSS and images used at <a href="https://make-coding-fun.blogspot.com/" target="_blank">make-coding-fun.blogspot.com</a>.
