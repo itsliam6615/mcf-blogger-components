@@ -6,11 +6,16 @@ All of the JS, CSS and images used at <a href="https://make-coding-fun.blogspot.
 <br>
 <br>
 <br>
-<h2 align="center">Files</h2>
-<a href="bootstrap.min.js">bootstrap.min.js</a>
-<br>
+<h2>Files</h2>
+<h3>CSS</h3>
 <a href="bootstrap.min.css">bootstrap.min.css</a>
+<br>
+<h3>JS</h3>
+<a href="bootstrap.min.js">bootstrap.min.js</a>
 <br>
 <a href="jquery.min.js">jquery.min.js</a>
 <br>
 <a href="popper.min.js">popper.min.js</a>
+<br>
+<h3>Images</h3>
+<a href="logo.png">logo.png</a>
